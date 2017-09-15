@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<openerp><data>
+
+    <record id="rule_FF_price_to_weight" model="barcode.rule">
+        <field name="name">FF Priced Barcodes</field>
+            <field name="barcode_nomenclature_id" ref="barcodes.default_barcode_nomenclature"/>
+        <field name="type">FF_price_to_weight</field>
+        <field name="pattern">22.....{NNNDD}</field>
+        <field name="sequence">14</field>
+        <field name="encoding">ean13</field>
+    </record>
+
+</data></openerp>
