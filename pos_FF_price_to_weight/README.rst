@@ -65,5 +65,6 @@ Icon parts come from https://fr.wikipedia.org
 Contributors
 ------------
 
+* Sylvain LE GAL <https://twitter.com/legalsylvain>
 * Thierry Ferland
 
